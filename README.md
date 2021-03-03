@@ -16,3 +16,6 @@ This repository includes several blogs that I am interested in
 ## Kalman Filter
 - [KalmanFilter.NET](https://www.kalmanfilter.net/default.aspx)
 - [2D KalmanFilter](https://mro47.github.io/portfolio/work-kalman-filter.html)
+
+## Environment Setup
+- [Virtual Desktop](https://github.com/pmb6tz/windows-desktop-switcher)
